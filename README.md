@@ -40,11 +40,11 @@ One of the first simple apps I created while on my journey to learn flutter.
 
   ##### Clone the repository
 ```bash
-git clone https://github.com/ishandeveloper/Chatter-App.git
+git clone https://github.com/thomasconn0501/chat-app.git
 ```
   ##### Move to the desired folder
 ```bash
-cd \Chatter-App
+cd \chat-app
 ```
 
   ##### To run the app, simply write
@@ -62,18 +62,18 @@ flutter run
 
 ### How to make a Pull Request:
 
-**1.** Fork [this](https://github.com/ishandeveloper/Chatter-App) repository.
+**1.** Fork [this](https://github.com/thomasconn0501/chat-app.git) repository.
 
 **2.** Clone the forked repository.
 
 ```terminal
-git clone https://github.com/<your-github-username>/Chatter-App
+git clone https://github.com/<your-github-username>/chat-app
 ```
 
 **3.** Navigate to the project directory.
 
 ```terminal
-cd Chatter-App
+cd chat-app
 ```
 
 **4.** Checkout from master to development branch.
